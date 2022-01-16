@@ -5,3 +5,9 @@ A nice auto clicker for some games
 ```
 pip3 install pynput
 ```
+To install the development version, do the following:
+```
+$ git clone https://github.com/dexStap/discord.py
+$ cd discord.py
+$ python3 -m pip install -U .[voice]
+```
