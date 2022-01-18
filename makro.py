@@ -25,6 +25,8 @@ x = """
 """
 print(x)
 
+print("The automatic clicker will start when you press the 'S' key and stop when you press the 'S' key again. Press the 'E' key to exit.")
+
 
 delay = 0.001
 button = Button.left
