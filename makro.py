@@ -3,28 +3,6 @@ import threading
 from pynput.mouse import Button, Controller
 from pynput.keyboard import Listener, KeyCode
 
-x = """
-
-        
-
-       /$$                      /$$$$$$   /$$                        
-      | $$                     /$$__  $$ | $$                        
-  /$$$$$$$  /$$$$$$  /$$   /$$| $$  \__//$$$$$$    /$$$$$$   /$$$$$$ 
- /$$__  $$ /$$__  $$|  $$ /$$/|  $$$$$$|_  $$_/   |____  $$ /$$__  $$
-| $$  | $$| $$$$$$$$ \  $$$$/  \____  $$ | $$      /$$$$$$$| $$  \ $$
-| $$  | $$| $$_____/  >$$  $$  /$$  \ $$ | $$ /$$ /$$__  $$| $$  | $$
-|  $$$$$$$|  $$$$$$$ /$$/\  $$|  $$$$$$/ |  $$$$/|  $$$$$$$| $$$$$$$/
- \_______/ \_______/|__/  \__/ \______/   \___/   \_______/| $$____/ 
-                                                           | $$      
-                                                           | $$      
-                                                           |__/      
-
-                                                         
-
-
-"""
-print(x)
-
 print("The automatic clicker will start when you press the 'S' key and stop when you press the 'S' key again. Press the 'E' key to exit.")
 
 
